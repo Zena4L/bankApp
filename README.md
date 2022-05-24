@@ -1,1 +1,2 @@
 # bankApp
+#JavaScript array manipulations
